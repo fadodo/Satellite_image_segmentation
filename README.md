@@ -30,3 +30,10 @@ This Python-based implementation utilizes the leafmap library to handle and proc
 
 - Region of Interest (ROI) Analysis: The ability to focus on specific areas.
 - Remote Sensing: Understanding of satellite imagery and its applications.
+
+  <table>
+  <tr>
+    <td><img src="path/to/image1.png" alt="Image 1 Description" width="400"></td>
+    <td><img src="path/to/image2.png" alt="Image 2 Description" width="400"></td>
+  </tr>
+</table>
