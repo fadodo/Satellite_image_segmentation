@@ -13,12 +13,12 @@ This Python-based implementation utilizes the leafmap library to handle and proc
 ```
  ## Core Technical Skills:
 
--Convolutional Neural Networks (CNNs): For object detection tasks.
--Segment Anything Model (SAM): For advanced image segmentation.
--Image Segmentation Algorithms: Demonstrates understanding of the underlying techniques.
--Object Detection: The primary task being addressed.
--Geospatial Data Analysis: Working with satellite imagery.
--Python Programming: The primary language used.
+- Convolutional Neural Networks (CNNs): For object detection tasks.
+- Segment Anything Model (SAM): For advanced image segmentation.
+- Image Segmentation Algorithms: Demonstrates understanding of the underlying techniques.
+- Object Detection: The primary task being addressed.
+- Geospatial Data Analysis: Working with satellite imagery.
+- Python Programming: The primary language used.
 
 ## Tools & Libraries:
 
