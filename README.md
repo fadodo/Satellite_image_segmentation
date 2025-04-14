@@ -34,7 +34,7 @@ This Python-based implementation utilizes the leafmap library to handle and proc
 
 # Results:
 
-  <table>
+  <table style="border-collapse: collapse;">
   <tr>
     <td><img src="https://github.com/fadodo/Satellite_image_segmentation/blob/main/comparison_map.jpeg" alt="Image 1 Description" width="500"></td>
     <td><img src="https://github.com/fadodo/Satellite_image_segmentation/blob/main/segment_mask.png" alt="Image 2 Description" width="500"></td>
